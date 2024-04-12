@@ -1,0 +1,1 @@
+{"name": "Test CRUD operation Update(delete)", "status": "passed", "description": "Verify booking gets deleted with the booking ID and Token.", "start": 1712609596546, "stop": 1712609661947, "uuid": "a95c912e-7509-48a0-b82a-d2b978e23f93", "testCaseId": "6297b85c13cded69a338584571d5b815", "fullName": "tests.test.crud.test_crud.TestCRUDBooking#test_delete_booking_id"}
